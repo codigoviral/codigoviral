@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victel Merzier</h1>
+<h1 align="center">Hi 👋, I'm Victel Merzier Ceo de 'Codigo Viral'</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
 - 💬 Ask me about **html, css, javascript y reactjs**
